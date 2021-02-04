@@ -23,6 +23,8 @@ public class Util {
     }
 
 
+
+
     public static int getWidth() {
         WindowManager wm = mcontext.getWindowManager();
         DisplayMetrics outMetrics = new DisplayMetrics();
